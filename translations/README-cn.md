@@ -306,9 +306,9 @@
 
 ## 必备知识
 
-- [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [X] **计算机是如何处理一段程序：**
+    - [X] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [X] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **编译器**
     - [ ] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
